@@ -80,4 +80,5 @@ p{
 div:hover{
   background-color:transparent;
   transform: scale(1.1);
+    color:#EAF6F6;
 }
