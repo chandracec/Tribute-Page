@@ -12,4 +12,6 @@
   <h3>Awards and Honours to C V RAMAN</h3>
  <img src="https://i.ibb.co/LJWzbrt/Screenshot-46.png" alt="Screenshot-46" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
    </div>
- The above code is deployed [AT](https://c-v-raman.netlify.app/#home)
+   <div>
+ It is live [HERE](https://c-v-raman.netlify.app/#home)
+</div>
