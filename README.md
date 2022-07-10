@@ -1,5 +1,5 @@
  <div align="center">
- <H3>You can finde me on linkedin</h3>
+ <H3>You can find me on linkedin</h3>
  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/cktfromdtg/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
