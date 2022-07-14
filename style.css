@@ -3,9 +3,76 @@ body {
     background-image: linear-gradient(to right, #394545, #3e7e7e, #399c9c);
     color:black;
     margin: 12%;
-    margin-top: 0%;
+    margin-top: 10%;
     margin-bottom: 0%;
     font-family: 'Poppins', sans-serif;
+}
+#timeline{
+  background: transparent;
+  width: 680px;
+  border:none;
+  margin-left:20%;
+}
+#life{
+  background: transparent;
+  width: 1000px;
+  border:none;
+  padding: 20px;
+}
+#career{
+  background: transparent;
+  width: 1020px;
+  padding: 10px;
+  margin: 0px;
+  margin-top: 10%;
+}
+#works{
+  background: transparent;
+  width: 1020px;
+  padding: 30px;
+  margin: 0px;
+  margin-top: 10%;
+}
+#honours{
+  background: transparent;
+  width: 1000px;
+  padding: 20px;
+  margin: 20px;
+  margin-top: 10%;
+}
+
+#life:hover{
+  background:linear-gradient(to right,#3a6186,#89253e);
+  transform: scale(1.1);
+    color:#EAF6F6;
+    border-radius: 10px;
+  box-shadow: 0 0 20px 3px #9afbfa;
+  background:linear-gradient(to right,#3a6186,#89253e);
+}
+ 
+#career:hover{
+  background:linear-gradient(to right,#3a6186,#89253e);
+  transform: scale(1.1);
+    color:#EAF6F6;
+    border-radius: 10px;
+  box-shadow: 0 0 20px 3px #9afbfa;
+  background:linear-gradient(to right,#3a6186,#89253e);
+}
+#works:hover{
+  background:linear-gradient(to right,#3a6186,#89253e);
+  transform: scale(1.1);
+    color:#EAF6F6;
+    border-radius: 10px;
+  box-shadow: 0 0 20px 3px #9afbfa;
+  background:linear-gradient(to right,#3a6186,#89253e);
+}
+#honours:hover{
+  background:linear-gradient(to right,#3a6186,#89253e);
+  transform: scale(1.1);
+    color:#EAF6F6;
+    border-radius: 10px;
+  box-shadow: 0 0 20px 3px #9afbfa;
+  background:linear-gradient(to right,#3a6186,#89253e);
 }
   .links {
     text-align: center;
@@ -16,6 +83,7 @@ body {
     background-color:transparent;
     left: 24%;
     top: 0%;
+    margin-top: 4%;
   }
 
   a:link {
@@ -45,6 +113,7 @@ h1 {
 h2{
     text-align: center;
     color:#5c052a;
+    margin-top: 0%;
 }
 .image {
     display: block;
@@ -60,23 +129,20 @@ pre{
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     margin-bottom: 5%;
-    margin-top: 5%;
+     
 }
-#timeline {
-  margin: 15%;
-  margin-top: 5%;
-  margin-bottom:5%;
-}
- 
 
 p{
-    margin-top: 14%;
+    margin-top: 0%;
     text-align: center;
     color:burlywood;
     font-weight: bold;
 }
-div:hover{
-  background-color:transparent;
-  transform: scale(1.1);
-    color:#EAF6F6;
+
+p.footer{
+  margin-top: 0%;
+  width: 50px;
+  text-align: center;
+  margin-left:46%;
+  margin-top:0%
 }
