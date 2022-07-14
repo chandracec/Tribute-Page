@@ -1,7 +1,7 @@
  <div align="center">
   
  
-[This page is live Here](https://c-v-raman.netlify.app/#home)
+ 
 # TRIBUTE PAGE TO SIR C V RAMAN
  ### Built With
  [![My Skills](https://skills.thijs.gg/icons?i=html,css)](https://skills.thijs.gg)
@@ -15,6 +15,7 @@
  <h3>Awards and Honours to SIR C V RAMAN</h3>
  <img src="https://i.ibb.co/LJWzbrt/Screenshot-46.png" alt="Screenshot-46" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
   <br>
+ 
  ## Contact
 <H3>You can find me on linkedin</h3>
  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/cktfromdtg/">
