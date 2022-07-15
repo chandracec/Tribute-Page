@@ -30,7 +30,7 @@
   <hr>
   <div>
    <hr>
-   ### Built With 
+ <h2>Built With</h2> 
  <div id="built-with">
  
  [![My Skills](https://skills.thijs.gg/icons?i=html,css)](https://skills.thijs.gg)
@@ -40,14 +40,14 @@
  </div>
 <hr>
 <div id="contact">
-<H3>You can find me on linkedin</h3>
+<H2>You can find me on linkedin</h2>
  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/cktfromdtg/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a><p align="right">(<a href="#top">back to top</a>)</p>
  
  </div>
   <hr> 
-  ## Acknowledgments
+   <h2>Acknowledgments</h2>
  <div id="acknowledgments">
   
 
