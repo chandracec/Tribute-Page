@@ -31,9 +31,7 @@
  <div id="built-with">
  
  [![My Skills](https://skills.thijs.gg/icons?i=html,css)](https://skills.thijs.gg)
- <hr>
   <p align="right">(<a href="#top">back to top</a>)</p>
-
  </div>
 <hr>
 <div id="contact">
