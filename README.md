@@ -15,7 +15,7 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol> 
  </details>
- 
+ <hr>
  <div id="about-the-project">
   <h3>This is how home page looks like</h3>
  <img src="https://i.ibb.co/BL32HZ3/Screenshot-41.png" alt="Screenshot-41" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
@@ -27,7 +27,7 @@
  <img src="https://i.ibb.co/LJWzbrt/Screenshot-46.png" alt="Screenshot-46" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
   <p align="right">(<a href="#top">back to top</a>)</p>
 
-  <br>
+  <hr>
   <div>
    
  <div id="built-with">
@@ -37,12 +37,7 @@
   <p align="right">(<a href="#top">back to top</a>)</p>
 
  </div>
- 
-<div id="getting-started">
- 
- </div>
- 
-
+<hr>
 <div id="contact">
 <H3>You can find me on linkedin</h3>
  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/cktfromdtg/">
@@ -50,7 +45,7 @@
   </a><p align="right">(<a href="#top">back to top</a>)</p>
  
  </div>
-   
+  <hr> 
  <div id="acknowledgments">
   ## Acknowledgments
 
@@ -64,5 +59,6 @@ Use this space to list resources you find helpful and would like to give credit 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
    </div>
+   <hr>
 </div>
   
