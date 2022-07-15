@@ -1,8 +1,9 @@
  <div align="center">
- <div id="top">
+  
 # TRIBUTE PAGE TO SIR C V RAMAN
+ <div id="top">
  </div>
- 
+ <details>
  <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -21,7 +22,7 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol> 
- 
+ </details>
  
  <div id="about-the-project">
   <h3>This is how home page looks like</h3>
