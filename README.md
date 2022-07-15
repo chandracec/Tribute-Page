@@ -29,9 +29,10 @@
 
   <hr>
   <div>
-   
+   <hr>
+   ### Built With 
  <div id="built-with">
- ### Built With
+ 
  [![My Skills](https://skills.thijs.gg/icons?i=html,css)](https://skills.thijs.gg)
  <hr>
   <p align="right">(<a href="#top">back to top</a>)</p>
@@ -46,8 +47,9 @@
  
  </div>
   <hr> 
- <div id="acknowledgments">
   ## Acknowledgments
+ <div id="acknowledgments">
+  
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
