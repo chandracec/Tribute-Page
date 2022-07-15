@@ -7,18 +7,11 @@
  <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+     <a href="#about-the-project">About The Project</a></li>
+      <li><a href="#built-with">Built With</a></li>
+  
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
+     <a href="#getting-started">Getting Started</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol> 
@@ -38,7 +31,7 @@
   <br>
   <div>
    
- <div id="builtiwith">
+ <div id="built-with">
  ### Built With
  [![My Skills](https://skills.thijs.gg/icons?i=html,css)](https://skills.thijs.gg)
  <hr>
@@ -47,6 +40,7 @@
  </div>
  
 <div id="getting-started">
+ 
  </div>
  
 
