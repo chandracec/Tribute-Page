@@ -15,7 +15,27 @@
  <h3>Awards and Honours to SIR C V RAMAN</h3>
  <img src="https://i.ibb.co/LJWzbrt/Screenshot-46.png" alt="Screenshot-46" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
   <br>
- 
+  
+ <details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
  ## Contact
 <H3>You can find me on linkedin</h3>
  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/cktfromdtg/">
